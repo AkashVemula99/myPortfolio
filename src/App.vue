@@ -86,7 +86,7 @@ const scrollToSection = (id: string) => {
   <div id="contact" class="section"><Contact /></div>
 </template>
 
-<!-- ✅ Global Styling -->
+
 <style>
 html {
   scroll-behavior: smooth;
